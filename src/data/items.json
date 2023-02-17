@@ -1,0 +1,26 @@
+[
+{"id": 1,
+"name": "Sofa",
+"price": 100.00,
+"imgUrl":"./imgs/sofa.webp"
+    
+},
+{"id": 2,
+"name": "Bed",
+"price": 150.00,
+"imgUrl":"./imgs/bed.jpg"
+
+},
+{"id": 3,
+"name": "Table",
+"price": 90.00,
+"imgUrl":"./imgs/table.jpeg"
+
+},
+{"id": 4,
+"name": "Plant",
+"price": 10.00,
+"imgUrl":"./imgs/plant.jpg"
+
+}
+]
